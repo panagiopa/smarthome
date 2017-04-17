@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:8:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /home/elite/.android/build-cache/f34cd4cfa0dc83843b05399825799440d1dca2e5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/elite/.android/build-cache/a01bb65521506d9c8df50470b250dec079c568a7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/elite/.android/build-cache/8ebc6a07c25b6a547162665cf855531049c95d02/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/elite/.android/build-cache/e67bcfe090ae16dffc457b00ee1d53bbc893761e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/elite/.android/build-cache/2e88c8e5b0095d3a0fdc3f674518446c2924e57f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/elite/.android/build-cache/eab78728c40af06134a9c3351957d2d419ede2d7/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/elite/.android/build-cache/7a43dc41807873780c0140fd22585f631ae49008/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/elite/.android/build-cache/22c58163f9fdfcb9feb8eb48a492b7b831775fd4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] /home/elite/.android/build-cache/59ce505d80196812a139c089b2430dbeefae8016/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.android.smarthome.MainActivity
+ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /home/elite/.android/build-cache/f34cd4cfa0dc83843b05399825799440d1dca2e5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/elite/.android/build-cache/a01bb65521506d9c8df50470b250dec079c568a7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/elite/.android/build-cache/8ebc6a07c25b6a547162665cf855531049c95d02/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/elite/.android/build-cache/e67bcfe090ae16dffc457b00ee1d53bbc893761e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/elite/.android/build-cache/2e88c8e5b0095d3a0fdc3f674518446c2924e57f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/elite/.android/build-cache/eab78728c40af06134a9c3351957d2d419ede2d7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/elite/.android/build-cache/7a43dc41807873780c0140fd22585f631ae49008/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /home/elite/.android/build-cache/22c58163f9fdfcb9feb8eb48a492b7b831775fd4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] /home/elite/.android/build-cache/59ce505d80196812a139c089b2430dbeefae8016/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elite/AndroidStudioProjects/SmartHome/app/src/main/AndroidManifest.xml

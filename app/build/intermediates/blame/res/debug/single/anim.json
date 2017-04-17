@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/anim/abc_slide_out_top.xml"
+    }
+]

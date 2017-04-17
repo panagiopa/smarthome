@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/elite/AndroidStudioProjects/SmartHome/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/elite/.android/build-cache/55ef2e2fecb688d5c547bf038a6d82b04e33fde2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
